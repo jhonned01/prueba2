@@ -7,7 +7,7 @@ const Header = () => {
   const [isOpen, setIsOpen] = useState(false);
 
   return (
-    <nav className="sticky p-5 shadow-xl md:flex md:items-center md:justify-between bg-gradient-to-b from-[#14188b] to-blue-600">
+    <nav className="sticky p-5 shadow-xl md:flex md:items-center md:justify-between bg-gradient-to-b from-[#14188b] to-blue-500">
       <div className="flex justify-between items-center ">
         <span className="">
           <Image
