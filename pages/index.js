@@ -2,10 +2,7 @@ export default function Home() {
   return (
     <div>
       <p>
-        Lorem ipsum, dolor sit amet consectetur adipisicing elit. Dolorum magni
-        sequi id cumque recusandae aperiam exercitationem omnis, asperiores
-        itaque aliquam impedit. Officiis suscipit aliquam minus laborum. Ea
-        alias dolorem commodi.
+     hola
       </p>
       <p>
         Lorem ipsum dolor sit amet consectetur adipisicing elit. Et commodi
